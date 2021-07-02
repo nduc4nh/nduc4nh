@@ -12,7 +12,7 @@
         - 📫 Big love with Math and some silly stuffs
       </td>
       <td>
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|
+          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
       </td>
     </tr>
   </tbody>
