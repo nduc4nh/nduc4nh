@@ -8,7 +8,7 @@
         <li>📫 Big love with Math and some silly stuffs </li>
       </ul>
    </td>
-    <td><div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=dracula"></div></td>
+    <td><div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=gradient"></div></td>
  </tr>
 </table>
   <!---
