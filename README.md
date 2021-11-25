@@ -18,10 +18,10 @@
 <table>
  <tr>
   <td>
-   <img src = "https://storage.googleapis.com/hust-files/images/mso_13.3k.png" width = "350"/>
+   <img src = "https://storage.googleapis.com/hust-files/images/mso_13.3k.png" width = "300"/>
    </td>
   <td>
-   <img src = "https://analyticsdrift.com/wp-content/uploads/2020/11/IBM-Data-AI-Conference.jpg" width = "350"/>
+   <img src = "https://analyticsdrift.com/wp-content/uploads/2020/11/IBM-Data-AI-Conference.jpg" width = "300"/>
    </td>
   <tr>
   <td>
