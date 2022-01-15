@@ -1,3 +1,7 @@
+
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduc4nh&show_icons=true&theme=radical)
+ 
 <table border="0">
  <tr>
     <td>
