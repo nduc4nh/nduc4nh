@@ -15,10 +15,11 @@
 <img src = "https://analyticsdrift.com/wp-content/uploads/2020/11/IBM-Data-AI-Conference.jpg" width="435" /> 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduc4nh&show_icons=true&theme=radical)
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8)](https://github.com/nduc4nh/github-readme-stats)</span>
-
+<p float='left'>
+<img src= 'https://github-readme-stats.vercel.app/api?username=nduc4nh&show_icons=true&theme=radical'>
+  
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8'/>
+</p>
   <!---
 nduc4nh/nduc4nh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
