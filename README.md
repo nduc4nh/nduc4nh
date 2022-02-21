@@ -2,10 +2,10 @@
 ## Bout me <3
 ~~~
 
-  👋 Hi, I’m @nduc4nh </li>
-  👀 I’m interested in Science and Tech </li>
-  🌱 I’m currently learning Computer Science </li>
-  📫 Big love with Math and some silly stuffs </li>
+  👋 Hi, I’m @nduc4nh 
+  👀 I’m interested in Science and Tech 
+  🌱 I’m currently learning Computer Science 
+  📫 Big love with Math and some silly stuffs
 
 ~~~
 
