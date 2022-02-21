@@ -16,11 +16,13 @@
 </p>
 
 ## Internship & work <3
- 
-<img src = "./le-developpement-du-cloud-profite-a-ibm-removebg-preview.png" width="435" /> 
-  
-<img src = "./mso_13.3k-removebg-preview.png" />
 
+
+<p float='left'>
+<img src = "./le-developpement-du-cloud-profite-a-ibm-removebg-preview.png" width="435" /> 
+&nbsp;  
+<img src = "./mso_13.3k-removebg-preview.png" />
+<p>
 
   <!---
 nduc4nh/nduc4nh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
