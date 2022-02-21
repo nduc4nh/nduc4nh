@@ -17,8 +17,8 @@
 
 <p float='left'>
 <img src= 'https://github-readme-stats.vercel.app/api?username=nduc4nh&show_icons=true&theme=radical' width="400">
-  
-<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8'/>
+&nbsp;  
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8' width="300"/>
 </p>
   <!---
 nduc4nh/nduc4nh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
