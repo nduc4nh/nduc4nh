@@ -12,7 +12,7 @@
 <p float='left'>
 <img src= 'https://github-readme-stats.vercel.app/api?username=nduc4nh&show_icons=true&theme=radical' width="400">
 &nbsp;  
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8&hide='C,C++'" width="300"/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nduc4nh&layout=compact&theme=radical&langs_count=8&hide=C++" width="300"/>
 </p>
 
 ## Internship & work <3
